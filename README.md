@@ -14,4 +14,5 @@ Beberapa hal yg harus dipastikan
     media_type = baris untuk jenis media
     file_dok = baris pada tabel untuk file yang ingin di download
     dok.dokumen = Terdapat pada skema dok pada tabel dokumen
-    ![image](https://github.com/deffan10/Download-File-From-Postgresql/assets/49578199/3b71f049-6f27-4751-9d2d-40046735ed45)
+    
+![image](https://github.com/deffan10/Download-File-From-Postgresql/assets/49578199/3b71f049-6f27-4751-9d2d-40046735ed45)
